@@ -1,0 +1,17 @@
+{
+    "name": "unitcare-contract",
+    "version": "1.0.0",
+    "description": "A decentralised marketplace to tokenize health data",
+    "main": "truffle-config.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "UnitCare Corporation Ltd.",
+    "license": "ISC",
+    "dependencies": {
+        "cli-interact": "^0.1.9",
+        "openzeppelin-solidity": "2.3.0",
+        "sync-request": "^6.0.0"
+    }
+}
